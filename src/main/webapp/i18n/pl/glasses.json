@@ -1,0 +1,27 @@
+{
+  "jhipsterappApp": {
+    "glasses": {
+      "home": {
+        "title": "Glasses",
+        "createLabel": "Dodaj Glasses",
+        "createOrEditLabel": "Dodaj lub edytuj: Glasses",
+        "notFound": "No Glasses found"
+      },
+      "created": "Utworzono nowy obiekt typu Glasses z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Glasses z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Glasses z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Glasses {{ id }}?"
+      },
+      "detail": {
+        "title": "Glasses"
+      },
+      "model": "Model",
+      "front": "Front",
+      "temples": "Temples",
+      "lenses": "Lenses",
+      "size": "Size",
+      "person": "Person"
+    }
+  }
+}

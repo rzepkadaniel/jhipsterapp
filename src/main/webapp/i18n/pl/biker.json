@@ -1,0 +1,25 @@
+{
+  "jhipsterappApp": {
+    "biker": {
+      "home": {
+        "title": "Biker",
+        "createLabel": "Dodaj Biker",
+        "createOrEditLabel": "Dodaj lub edytuj: Biker",
+        "notFound": "No Bikers found"
+      },
+      "created": "Utworzono nowy obiekt typu Biker z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Biker z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Biker z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Biker {{ id }}?"
+      },
+      "detail": {
+        "title": "Biker"
+      },
+      "name": "Name",
+      "lastName": "Last Name",
+      "mileage": "Mileage",
+      "bike": "Bike"
+    }
+  }
+}

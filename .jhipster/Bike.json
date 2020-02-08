@@ -1,0 +1,32 @@
+{
+    "name": "Bike",
+    "fields": [
+        {
+            "fieldName": "model",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "serialNo",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "many-to-one",
+            "otherEntityName": "biker",
+            "otherEntityRelationshipName": "bike",
+            "relationshipName": "biker",
+            "otherEntityField": "id"
+        }
+    ],
+    "changelogDate": "20200208103000",
+    "entityTableName": "bike",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "clientRootFolder": "",
+    "applications": "*"
+}
